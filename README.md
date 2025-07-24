@@ -1,7 +1,6 @@
 
   <h1>Marco Cazares</h1>
-  <img src="URL_DE_TU_FOTO" width="150" style="border-radius:50%">
-  
+
   <h2>Mis proyectos destacados</h2>
   <div class="proyecto">
     <h3>Proyecto 1</h3>
