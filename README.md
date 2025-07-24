@@ -1,12 +1,10 @@
+Marco Cazares
 
-  #Marco Cazares 
-  
-  
-  
-  #Interesado en Data engineering | Data Analysis
-  
-  
-  #Aprendiendo Google Cloud Platform
+
+
+Interested in Data Engineering | Data Analysis
+
+Learning Google Cloud Platform
    
 
   
