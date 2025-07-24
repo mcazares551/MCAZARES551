@@ -7,5 +7,6 @@
     
   <h2>Contacto</h2>
   <p>✉️ Email: <a href="mailto:tucorreo@ejemplo.com">tucorreo@ejemplo.com</a></p>
+  <p>linkedin:</p>
 </body>
 </html>
