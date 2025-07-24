@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title> [Marco Cazares]</title>
-  <style>
-    body { font-family: Arial; text-align: center; }
-    .proyecto { border: 1px solid #ddd; padding: 20px; margin: 10px; }
-  </style>
-</head>
-<body>
+
   <h1>¡Hola! Soy Marco</h1>
   <img src="URL_DE_TU_FOTO" width="150" style="border-radius:50%">
   
