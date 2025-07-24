@@ -1,6 +1,5 @@
 
-  <h1>Marco Cazares</h1>
-
+  Hola soy Marco Cazares 
   <h2>Mis proyectos destacados</h2>
   <div class="proyecto">
     
