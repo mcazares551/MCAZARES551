@@ -8,7 +8,7 @@
   </style>
 </head>
 <body>
-  <h1>¡Hola! Soy [Marco]</h1>
+  <h1>¡Hola! Soy Marco</h1>
   <img src="URL_DE_TU_FOTO" width="150" style="border-radius:50%">
   
   <h2>Mis proyectos destacados</h2>
